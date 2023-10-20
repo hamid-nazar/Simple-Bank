@@ -1,6 +1,6 @@
 # A simple banking application
 
-## Images
+## Demo
 
 ![](./images/image2.png)
 ![](./images/image3.png)
